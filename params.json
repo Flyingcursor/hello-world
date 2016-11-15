@@ -1,0 +1,6 @@
+{
+  "name": "Hello-world",
+  "tagline": "Test.  Will probably be deleted",
+  "body": "This is the content of my HTML.  It is to test git-pages project pages.  \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
